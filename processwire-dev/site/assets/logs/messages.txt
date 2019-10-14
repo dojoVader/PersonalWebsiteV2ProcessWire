@@ -1,0 +1,20 @@
+2015-01-31 15:39:10	dojovader	http://okeowoaderemi.com/vault/profile/	Profile saved - admin_theme
+2015-01-31 15:39:10	dojovader	http://okeowoaderemi.com/vault/profile/	Profile saved - admin_theme
+2015-03-30 17:09:32	guest	http://okeowoaderemi.com/articles/posts/whats-been-going-on/	Approved comment 0 - New comment auto-approved because user 'Deremmy' has other approved comments
+2015-11-20 05:59:46	guest	http://www.okeowoaderemi.com/articles/posts/experience-with-jquery-mobile-and-dojo/	Updating schema version of 'blog_comments' from 5 to 6
+2016-05-07 07:39:36	admin	http://www.okeowoaderemi.com/processwire/profile/	Profile saved - admin_theme
+2016-05-07 07:39:50	admin	http://www.okeowoaderemi.com/processwire/profile/	Profile saved - admin_theme
+2017-10-09 10:20:00	admin	http://www.okeowoaderemi.com/processwire/profile/	Profile saved - admin_theme
+2017-10-09 10:20:06	admin	http://www.okeowoaderemi.com/processwire/profile/	Profile saved - admin_theme
+2019-08-01 00:15:27	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/profile/	Profile saved - admin_theme (WireLog)
+2019-08-01 00:16:03	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/profile/	Profile saved - admin_theme (WireLog)
+2019-08-01 00:16:07	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/profile/	Profile saved - admin_theme (WireLog)
+2019-08-01 00:16:10	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/profile/	Profile saved - admin_theme (WireLog)
+2019-08-03 17:03:05	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/page/edit/?id=1	Added filedata to DB schema for 'images' (FieldtypeImage)
+2019-08-03 17:03:05	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/page/edit/?id=1	Added filedata to DB schema for 'logo' (FieldtypeImage)
+2019-08-04 11:27:49	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/page/edit/?id=1108	Added filedata to DB schema for 'blog_images' (FieldtypeImage)
+2019-08-08 11:29:45	admin	http://localhost:8080/mysite/processwire-dev/	Added filedata to DB schema for 'blog_images' (FieldtypeImage)
+2019-08-08 11:33:48	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/edit/?id=1001	Added filedata to DB schema for 'images' (FieldtypeImage)
+2019-08-08 11:35:01	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/edit/?id=1	Added filedata to DB schema for 'logo' (FieldtypeImage)
+2019-08-28 16:39:33	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/add/	Added filedata to DB schema for 'works' (FieldtypeImage)
+2019-09-01 16:42:45	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/edit/?id=1143	Added filedata to DB schema for 'blog_files' (FieldtypeFile)

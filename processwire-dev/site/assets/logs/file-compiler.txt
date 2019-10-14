@@ -1,0 +1,129 @@
+2019-08-01 00:12:10	guest	http://localhost:8080/processwire-dev/processwire-dev/	Compiled file: /site/templates/home.php
+2019-08-01 00:14:18	?	?	Compiled file: /site/modules/Helloworld.module
+2019-08-01 00:14:18	?	?	Compiled file: /site/modules/InputfieldAceEditor/InputfieldAceEditor.module
+2019-08-01 00:14:19	?	?	Compiled file: /site/modules/JqueryDataTables/JqueryDataTables.module
+2019-08-01 00:14:20	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module
+2019-08-01 00:14:20	?	?	Compiled file: /site/modules/MarkupSimpleNavigation/MarkupSimpleNavigation.module
+2019-08-01 00:14:21	?	?	Compiled file: /site/modules/ModulesManager/ModulesManager.module
+2019-08-01 00:14:21	?	?	Compiled file: /site/modules/ModulesManager/ModulesManagerNotification.module
+2019-08-01 00:14:22	?	?	Compiled file: /site/modules/ProcessBlog/BlogPublishDate.module
+2019-08-01 00:14:23	?	?	Compiled file: /site/modules/ProcessBlog/MarkupBlog.module
+2019-08-01 00:14:27	?	?	Compiled file: /site/modules/ProcessBlog/ProcessBlog.module
+2019-08-01 00:14:27	?	?	Compiled file: /site/modules/ProcessDatabaseBackups/ProcessDatabaseBackups.module
+2019-08-01 00:14:29	?	?	Compiled file: /site/modules/ProcessGoogleAnalytics/ProcessGoogleAnalytics.module
+2019-08-01 00:14:34	?	?	Compiled file: /site/modules/ProcessMigrator/ProcessMigrator.module
+2019-08-01 00:14:35	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgrade.module
+2019-08-01 00:14:35	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2019-08-01 00:14:35	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2019-08-01 00:14:35	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineFactory.module.php
+2019-08-01 00:14:35	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineNull.php
+2019-08-01 00:14:36	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngine.php
+2019-08-01 00:14:36	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineChunk.php
+2019-08-01 00:14:36	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineProcesswire.module.php
+2019-08-01 00:14:39	?	?	Compiled file: /site/modules/TemplateEngineSmarty/TemplateEngineSmarty.module
+2019-08-01 00:14:40	?	?	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Smarty.class.php
+2019-08-01 00:14:40	?	?	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Autoloader.php
+2019-08-01 00:14:45	?	?	Compiled file: /site/modules/TemplateEngineTwig/TemplateEngineTwig.module
+2019-08-01 07:43:00	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module
+2019-08-01 07:43:00	?	?	Compiled file: /site/modules/ProcessBlog/BlogPublishDate.module
+2019-08-01 07:43:02	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2019-08-01 07:43:02	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2019-08-01 07:43:08	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessMigrator/ProcessMigrator.module
+2019-08-01 07:43:09	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessGoogleAnalytics/ProcessGoogleAnalytics.module
+2019-08-01 07:43:10	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgrade.module
+2019-08-01 07:43:11	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ModulesManager/ModulesManager.module
+2019-08-01 07:43:11	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/InputfieldAceEditor/InputfieldAceEditor.module
+2019-08-01 07:43:11	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/MarkupSimpleNavigation/MarkupSimpleNavigation.module
+2019-08-01 07:43:15	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessBlog/ProcessBlog.module
+2019-08-01 07:43:17	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessBlog/MarkupBlog.module
+2019-08-01 07:43:17	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineSmarty/TemplateEngineSmarty.module
+2019-08-01 07:43:17	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngine.php
+2019-08-01 07:43:18	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Smarty.class.php
+2019-08-01 07:43:18	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Autoloader.php
+2019-08-01 07:43:20	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ProcessDatabaseBackups/ProcessDatabaseBackups.module
+2019-08-01 07:43:21	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/JqueryDataTables/JqueryDataTables.module
+2019-08-01 07:43:21	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/ModulesManager/ModulesManagerNotification.module
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/Helloworld.module
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineFactory.module.php
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineNull.php
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineChunk.php
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineProcesswire.module.php
+2019-08-01 07:43:23	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Compiled file: /site/templates/admin.php
+2019-08-01 08:19:24	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/?reset=1	Compiled file: /site/modules/TemplateEngineTwig/TemplateEngineTwig.module
+2019-08-01 08:22:28	admin	http://localhost:8080/processwire-dev/processwire-dev/	Compiled file: /site/templates/home.php
+2019-08-01 08:23:45	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/page/?modal=panel&pw_panel=1	Compiled file: /site/templates/admin.php
+2019-08-01 09:28:26	admin	http://localhost:8080/processwire-dev/processwire-dev/	Compiled file: /site/templates/home.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/basic-page (2).php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-archives.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-authors.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-categories.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-category.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-comments.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-main.inc
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-post.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-posts.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-tag.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog-tags.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/blog.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/contact.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/home (2).php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/maint (2).last
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/portfolio-lists.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/portfolio.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/sitemap.php
+2019-08-02 08:33:08	admin	http://localhost:8080/processwire-dev/processwire-dev/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/modules/maint (2).last
+2019-08-08 11:16:37	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module
+2019-08-08 11:16:37	?	?	Compiled file: /site/modules/ProcessBlog/BlogPublishDate.module
+2019-08-08 11:17:30	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2019-08-08 11:17:30	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2019-08-08 11:26:18	?	?	Compiled file: /site/modules/Helloworld.module
+2019-08-08 11:26:19	?	?	Compiled file: /site/modules/InputfieldAceEditor/InputfieldAceEditor.module
+2019-08-08 11:26:19	?	?	Compiled file: /site/modules/JqueryDataTables/JqueryDataTables.module
+2019-08-08 11:26:20	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module
+2019-08-08 11:26:20	?	?	Compiled file: /site/modules/MarkupSimpleNavigation/MarkupSimpleNavigation.module
+2019-08-08 11:26:21	?	?	Compiled file: /site/modules/ModulesManager/ModulesManager.module
+2019-08-08 11:26:21	?	?	Compiled file: /site/modules/ModulesManager/ModulesManagerNotification.module
+2019-08-08 11:26:21	?	?	Compiled file: /site/modules/ProcessBlog/BlogPublishDate.module
+2019-08-08 11:26:23	?	?	Compiled file: /site/modules/ProcessBlog/MarkupBlog.module
+2019-08-08 11:26:27	?	?	Compiled file: /site/modules/ProcessBlog/ProcessBlog.module
+2019-08-08 11:26:27	?	?	Compiled file: /site/modules/ProcessDatabaseBackups/ProcessDatabaseBackups.module
+2019-08-08 11:26:28	?	?	Compiled file: /site/modules/ProcessGoogleAnalytics/ProcessGoogleAnalytics.module
+2019-08-08 11:26:34	?	?	Compiled file: /site/modules/ProcessMigrator/ProcessMigrator.module
+2019-08-08 11:26:34	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgrade.module
+2019-08-08 11:26:35	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2019-08-08 11:26:35	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2019-08-08 11:26:35	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineFactory.module.php
+2019-08-08 11:26:35	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineNull.php
+2019-08-08 11:26:35	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngine.php
+2019-08-08 11:26:36	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineChunk.php
+2019-08-08 11:26:36	?	?	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineProcesswire.module.php
+2019-08-08 11:26:36	?	?	Compiled file: /site/modules/TemplateEngineSmarty/TemplateEngineSmarty.module
+2019-08-08 11:26:37	?	?	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Smarty.class.php
+2019-08-08 11:26:37	?	?	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Autoloader.php
+2019-08-08 11:26:40	?	?	Compiled file: /site/modules/TemplateEngineTwig/TemplateEngineTwig.module
+2019-08-08 11:29:01	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module
+2019-08-08 11:29:01	?	?	Compiled file: /site/modules/ProcessBlog/BlogPublishDate.module
+2019-08-08 11:29:01	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2019-08-08 11:29:01	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2019-08-08 11:29:07	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessMigrator/ProcessMigrator.module
+2019-08-08 11:29:08	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessGoogleAnalytics/ProcessGoogleAnalytics.module
+2019-08-08 11:29:08	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgrade.module
+2019-08-08 11:29:09	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ModulesManager/ModulesManager.module
+2019-08-08 11:29:09	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/InputfieldAceEditor/InputfieldAceEditor.module
+2019-08-08 11:29:10	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/MarkupSimpleNavigation/MarkupSimpleNavigation.module
+2019-08-08 11:29:13	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessBlog/ProcessBlog.module
+2019-08-08 11:29:15	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessBlog/MarkupBlog.module
+2019-08-08 11:29:15	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineSmarty/TemplateEngineSmarty.module
+2019-08-08 11:29:15	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngine.php
+2019-08-08 11:29:16	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Smarty.class.php
+2019-08-08 11:29:17	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineSmarty/smarty/libs/Autoloader.php
+2019-08-08 11:29:18	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ProcessDatabaseBackups/ProcessDatabaseBackups.module
+2019-08-08 11:29:19	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/JqueryDataTables/JqueryDataTables.module
+2019-08-08 11:29:19	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/ModulesManager/ModulesManagerNotification.module
+2019-08-08 11:29:19	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/Helloworld.module
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineFactory.module.php
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineNull.php
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineChunk.php
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Compiled file: /site/modules/TemplateEngineFactory/TemplateEngineProcesswire.module.php
+2019-08-08 11:30:10	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/?configurable=	Compiled file: /site/modules/TemplateEngineTwig/TemplateEngineTwig.module
+2019-09-01 14:49:46	guest	http://localhost:8080/mysite/processwire-dev/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php

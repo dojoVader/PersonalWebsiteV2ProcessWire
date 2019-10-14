@@ -1,0 +1,85 @@
+2019-08-01 00:10:47	?	?	Saved module 'SystemUpdater' config data
+2019-08-01 00:10:49	?	?	Saved module info caches
+2019-08-01 00:10:49	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:10:50	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Installed module 'ProcessRecentPages'
+2019-08-01 00:10:50	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:10:50	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module 'SystemUpdater' config data
+2019-08-01 00:10:50	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:10:50	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Installed module 'AdminThemeUikit'
+2019-08-01 00:10:51	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:11:06	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:11:06	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Installed module 'ProcessLogger'
+2019-08-01 00:11:07	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:11:07	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Installed module 'InputfieldIcon'
+2019-08-01 00:11:08	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:11:08	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module 'SystemUpdater' config data
+2019-08-01 00:11:08	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module info caches
+2019-08-01 00:12:10	guest	http://localhost:8080/processwire-dev/processwire-dev/	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:06	?	?	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:06	?	?	Saved module info caches
+2019-08-01 00:14:06	guest	http://localhost:8080/processwire-dev/processwire-dev/	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:12	guest	http://localhost:8080/processwire-dev/processwire-dev/http404/	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:45	?	?	Saved module info caches
+2019-08-01 00:14:45	?	?	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:45	?	?	Saved module info caches
+2019-08-01 00:14:45	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Saved module 'ProcessProfile' config data
+2019-08-01 00:14:45	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Saved module 'SystemUpdater' config data
+2019-08-01 00:14:55	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Saved module 'SystemUpdater' config data
+2019-08-01 00:15:45	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module 'ProcessProfile' config data
+2019-08-01 00:15:45	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Installed module 'AdminThemeReno'
+2019-08-01 00:15:45	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module info caches
+2019-08-01 00:15:54	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=AdminThemeReno	Saved module 'AdminThemeReno' config data
+2019-08-01 00:15:57	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=AdminThemeReno&collapse_info=1	Saved module 'AdminThemeReno' config data
+2019-08-01 00:16:32	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=AdminThemeReno&collapse_info=1	Saved module 'AdminThemeReno' config data
+2019-08-01 00:16:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=AdminThemeReno&collapse_info=1	Saved module 'AdminThemeReno' config data
+2019-08-01 00:18:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module 'TemplateEngineFactory' config data
+2019-08-01 00:18:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Installed module 'TemplateEngineProcesswire'
+2019-08-01 00:18:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Installed module 'TemplateEngineFactory'
+2019-08-01 00:18:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module info caches
+2019-08-01 00:18:40	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory	Saved module 'TemplateEngineFactory' config data
+2019-08-01 00:18:59	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Installed module 'ProcessDatabaseBackups'
+2019-08-01 00:18:59	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module info caches
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Saved module info caches
+2019-08-01 07:43:22	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Saved module 'SystemUpdater' config data
+2019-08-01 07:43:23	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/	Saved module 'SystemUpdater' config data
+2019-08-01 08:19:00	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:19:24	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/?reset=1	Saved module info caches
+2019-08-01 08:23:07	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:23:07	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Installed module 'TemplateEngineTwig'
+2019-08-01 08:23:07	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/	Saved module info caches
+2019-08-01 08:23:10	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineTwig	Saved module 'TemplateEngineTwig' config data
+2019-08-01 08:24:09	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:25:40	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:25:45	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:27:35	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-01 08:28:03	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineTwig&collapse_info=1	Saved module 'TemplateEngineTwig' config data
+2019-08-01 10:03:33	admin	http://localhost:8080/processwire-dev/processwire-dev/processwire/module/edit?name=TemplateEngineTwig&collapse_info=1	Saved module 'TemplateEngineTwig' config data
+2019-08-08 11:16:37	guest	http://localhost:8080/processwire-dev/processwire-dev/	Saved module 'SystemUpdater' config data
+2019-08-08 11:17:30	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:17:44	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:17:51	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:18:19	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:18:27	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:19:28	guest	http://localhost:8080/processwire-dev/processwire-dev/processwire/login/	Configurable module check failed for ProcessLogin, retrying...
+2019-08-08 11:26:04	?	?	Saved module 'SystemUpdater' config data
+2019-08-08 11:26:05	?	?	Saved module info caches
+2019-08-08 11:26:05	guest	http://localhost:8080/mysite/processwire-dev/processwire-dev/processwire/login/	Saved module 'SystemUpdater' config data
+2019-08-08 11:26:10	guest	http://localhost:8080/mysite/processwire-dev/processwire-dev/processwire/login/	Saved module 'SystemUpdater' config data
+2019-08-08 11:26:40	?	?	Saved module info caches
+2019-08-08 11:26:40	?	?	Saved module 'SystemUpdater' config data
+2019-08-08 11:26:40	?	?	Saved module info caches
+2019-08-08 11:26:40	guest	http://localhost:8080/mysite/processwire-dev/processwire-dev/processwire/login/	Saved module 'SystemUpdater' config data
+2019-08-08 11:27:04	guest	http://localhost:8080/mysite/processwire-dev/processwire-dev/	Saved module 'SystemUpdater' config data
+2019-08-08 11:29:19	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Saved module info caches
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Saved module 'SystemUpdater' config data
+2019-08-08 11:29:20	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/?login=1	Saved module 'SystemUpdater' config data
+2019-08-08 11:29:55	admin	http://localhost:8080/mysite/processwire-dev/processwire/setup/field/navJSON/	Saved module 'ProcessField' config data
+2019-08-08 11:30:37	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/	Saved module 'TemplateEngineFactory' config data
+2019-08-08 11:30:37	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/	Installed module 'TemplateEngineTwig'
+2019-08-08 11:30:37	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/	Saved module info caches
+2019-08-08 11:30:52	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/edit?name=TemplateEngineTwig	Saved module 'TemplateEngineTwig' config data
+2019-08-08 11:33:17	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/edit?name=TemplateEngineFactory&collapse_info=1	Saved module 'TemplateEngineFactory' config data
+2019-08-28 15:11:30	admin	http://localhost:8080/mysite/processwire-dev/processwire/setup/upgrades/	Saved module info caches
+2019-08-28 15:21:04	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/	Saved module info caches
+2019-08-28 15:21:04	admin	http://localhost:8080/mysite/processwire-dev/processwire/page/	Saved module 'SystemUpdater' config data
+2019-09-01 15:07:06	admin	http://localhost:8080/mysite/processwire-dev/processwire/module/edit?name=TemplateEngineTwig&collapse_info=1	Saved module 'TemplateEngineTwig' config data

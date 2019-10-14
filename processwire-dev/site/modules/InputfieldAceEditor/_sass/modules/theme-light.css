@@ -1,0 +1,90 @@
+.light.ace-editor-position-wrapper {
+  background: c(bl, 1);
+}
+
+.light.ace-editor-position-wrapper .ace_scroller, .light.ace-editor-position-wrapper .ace_scroller.ace_scroll-left, .light.ace-editor-position-wrapper .ace_scroller.ace_scroll-right {
+  -webkit-box-shadow: inset 0 2px 5px c(bl, 1), inset 0 -2px 5px c(bl, 1);
+          box-shadow: inset 0 2px 5px c(bl, 1), inset 0 -2px 5px c(bl, 1);
+}
+
+.ace-pw-light .ace_line {
+  color: c(tl, 1);
+}
+
+.ace-pw-light .ace_heading, .ace-pw-light .ace_keyword {
+  color: c(pl, 0.8);
+}
+
+.ace-pw-light .ace_bold, .ace-pw-light .ace_emphasis {
+  color: c(tl, 0.9);
+}
+
+.ace-pw-light .ace_modifier {
+  color: c(pl, 0.75);
+}
+
+.ace-pw-light .ace_list {
+  color: c(sl, 0.9);
+}
+
+.ace-pw-light .ace_underline {
+  color: c(pl, 0.8);
+}
+
+.ace-pw-light .ace_code, .ace-pw-light .ace_quote {
+  color: c(tl, 0.75);
+}
+
+.ace-pw-light .ace_sup, .ace-pw-light .ace_sub {
+  color: c(sl, 0.6);
+}
+
+.ace-pw-light .ace_tag, .ace-pw-light .ace_operator {
+  color: c(sl, 0.3);
+}
+
+.ace-pw-light .ace_tag.ace_tag-name, .ace-pw-light .ace_operator.ace_tag-name {
+  color: c(sl, 0.8);
+}
+
+.ace-pw-light .ace_attribute-name {
+  color: c(sl, 0.8);
+}
+
+.ace-pw-light .ace_attribute-value {
+  color: c(pl, 0.8);
+}
+
+.ace-pw-light .ace_invisible {
+  color: c(tl, 0.2);
+}
+
+.ace-pw-light .ace_fold {
+  background: c(pl, 1);
+}
+
+.ace-pw-light .ace_gutter {
+  color: c(bl, 1);
+  background: transparent;
+}
+
+.ace-pw-light .ace_indent-guide {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAE0lEQVQImWP4////f4bLly//BwAmVgd1/w11/gAAAABJRU5ErkJggg==) right repeat-y;
+}
+
+.ace-pw-light .ace_cursor {
+  border-left: 3px solid #1bc3fb;
+}
+
+.ace-pw-light .ace_marker-layer .ace_selection {
+  background: c(pl, 0.15);
+}
+
+.ace-pw-light.focus-mode .ace_line_group .ace_line {
+  opacity: .4;
+}
+
+.ace-pw-light.focus-mode .ace_line_group_active .ace_line {
+  opacity: 1;
+}
+/*# sourceMappingURL=theme-light.css.map */

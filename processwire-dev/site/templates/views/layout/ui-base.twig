@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        {{include("layout/elements/header.twig")}}
+    </head>
+
+    <body
+        id="newui">
+        {# Include the Menu for the page #}
+        {{include("layout/elements/menu.twig")}}
+
+        <div class="container-fluid nopadding" id="main-page"> {% block content %}{% endblock %}
+            </div>
+            <footer>
+                <div class="header-container headroom headroom--not-top headroom--pinned" id="header-container">
+                    {{include("layout/elements/footer.twig")}}
+                </div>
+            </footer>
+        </body>
+        <script src="{{config.urls.templates}}/scripts/blog.js"></script>
+    </html>

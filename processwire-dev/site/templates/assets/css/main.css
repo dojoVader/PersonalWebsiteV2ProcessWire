@@ -1,0 +1,443 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
+.nopadding {
+  padding: 0px;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.black-text {
+  color: black;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h3 {
+  color: #d17c78;
+}
+
+.thin-text {
+  font-weight: lighter;
+}
+
+#newui {
+  overflow-x: hidden;
+}
+
+#newui header.nav-menu {
+  position: absolute;
+  top: 4%;
+  z-index: 99999;
+  left: 56%;
+  width: auto;
+  font-size: 16px;
+}
+
+#newui header.nav-menu .navbar-nav {
+  margin: 10% 0%;
+  width: inherit;
+}
+
+#newui header.nav-menu ul.nav li {
+  float: left;
+  list-style: none;
+}
+
+#newui header.nav-menu ul.nav li a {
+  color: #d17c78;
+}
+
+section.full-view {
+  width: 100%;
+  height: 100%;
+}
+
+#main-page {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+#main-page section#homepage-ui {
+  background: #0a192f;
+  color: #d1d4dc;
+  font-size: 1.35em;
+  line-height: 1.5;
+  font-weight: 200;
+  text-shadow: 1px 0.5px 0px #0a272f;
+}
+
+#main-page section#homepage-ui header#page-header {
+  display: block;
+  position: relative;
+}
+
+#main-page section#homepage-ui header#page-header div.logo {
+  margin: 10% 5%;
+  font-size: 1.3em;
+}
+
+#main-page section#homepage-ui header#page-header div.logo a img {
+  width: 33%;
+}
+
+#main-page section#homepage-ui .pane {
+  padding: 20% 150px;
+}
+
+#main-page section#homepage-ui img {
+  width: 20%;
+  margin-left: -1.5%;
+}
+
+#main-page section#about-page-ui, #main-page section#concept-page-ui, #main-page section#blog-post-ui, #main-page section#blogs-page-ui {
+  background: whitesmoke;
+  padding: 2% 114px;
+  border-left: 20px solid #d17c78;
+}
+
+#main-page section#about-page-ui .content, #main-page section#concept-page-ui .content, #main-page section#blog-post-ui .content, #main-page section#blogs-page-ui .content {
+  font-size: 1.35em;
+  line-height: 1.9;
+}
+
+#main-page section#about-page-ui .skillsets h4, #main-page section#concept-page-ui .skillsets h4, #main-page section#blog-post-ui .skillsets h4, #main-page section#blogs-page-ui .skillsets h4 {
+  padding-bottom: 0px;
+}
+
+#main-page section#about-page-ui .skillsets h4::after, #main-page section#concept-page-ui .skillsets h4::after, #main-page section#blog-post-ui .skillsets h4::after, #main-page section#blogs-page-ui .skillsets h4::after {
+  background: #d17c78;
+  content: "";
+  height: 3px;
+  width: 26px;
+  display: block;
+  margin-top: 8px;
+}
+
+#main-page section#about-page-ui .skillsets li, #main-page section#concept-page-ui .skillsets li, #main-page section#blog-post-ui .skillsets li, #main-page section#blogs-page-ui .skillsets li {
+  list-style: none;
+  margin-left: -40px;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 0%;
+  color: #d17c78;
+}
+
+#main-page section#about-page-ui .skillsets li span.time, #main-page section#concept-page-ui .skillsets li span.time, #main-page section#blog-post-ui .skillsets li span.time, #main-page section#blogs-page-ui .skillsets li span.time {
+  float: right;
+  font-weight: 300;
+  color: #d17c78;
+}
+
+#main-page section#about-page-ui .user_logo img, #main-page section#concept-page-ui .user_logo img, #main-page section#blog-post-ui .user_logo img, #main-page section#blogs-page-ui .user_logo img {
+  width: 53%;
+  border-radius: 101%;
+  float: right;
+}
+
+#main-page section#about-page-ui .footer-design, #main-page section#concept-page-ui .footer-design, #main-page section#blog-post-ui .footer-design, #main-page section#blogs-page-ui .footer-design {
+  background: url(../images/bottom.png) no-repeat;
+  width: 160px;
+  height: 43px;
+  position: absolute;
+  bottom: 35px;
+  left: 7%;
+  opacity: 0.78;
+}
+
+#main-page section#project-page div#project-list,
+#main-page section#project-page div#project-image-viewer {
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+#main-page section#project-page .pane {
+  width: 100%;
+  height: 100%;
+}
+
+#main-page section#project-page div.project-controls {
+  position: relative;
+  bottom: 69px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 0% 2%;
+  font-size: 1.43em;
+}
+
+#main-page section#project-page div.project-controls a {
+  color: #d17c78;
+}
+
+#main-page section#project-page div#project-list {
+  padding: 12%;
+  background: #0a192f;
+}
+
+#main-page section#project-page div#project-list h4 {
+  font-size: 3.32em;
+  color: #d17c78;
+}
+
+#main-page section#project-page div#project-list div.meta-info .label-meta {
+  color: white;
+}
+
+#main-page section#project-page div#project-list div.meta-info h5 {
+  color: white;
+}
+
+#main-page section#project-page div#project-list div.meta-info p {
+  color: #d17c78;
+}
+
+#main-page section#project-page div#project-list a.btn.btn-outline-primary {
+  background: none;
+  border: 1px solid #d17c78;
+  border-radius: 0px;
+  padding: 2% 5%;
+  color: #d17c78;
+}
+
+#main-page section#project-page div#project-list a.btn.btn-outline-primary:hover {
+  background: #d17c78;
+  color: white;
+}
+
+#main-page section#project-page div#project-list p.project_description {
+  color: white;
+  margin-top: 22px;
+  font-size: 1.4em;
+  font-weight: 200;
+}
+
+#main-page section#project-page div#project-list .title {
+  position: absolute;
+  top: 5%;
+  left: 8%;
+  font-size: 1.75em;
+  color: white;
+}
+
+#main-page section#project-page div#project-list .project_counter {
+  position: absolute;
+  left: 24px;
+}
+
+#main-page section#project-page div#project-list .project_counter p.current-count {
+  font-size: 8.45em;
+  color: white;
+}
+
+#main-page section#project-page div#project-list .project_counter small {
+  font-size: 15px;
+  position: relative;
+  top: -40px;
+  left: 20px;
+  color: #d17c78;
+}
+
+#main-page div#project-image-viewer {
+  background: #efe9d9;
+  padding: 4%;
+}
+
+#main-page div#project-image-viewer .image-holder {
+  overflow: hidden;
+  height: 766px;
+  -webkit-box-shadow: 0px 2px 7px 0px #a2a2a2;
+          box-shadow: 0px 2px 7px 0px #a2a2a2;
+}
+
+#main-page div#project-image-viewer .image-holder img {
+  vertical-align: middle;
+  width: auto;
+  height: 100%;
+}
+
+#main-page #concept-page-ui .user_logo img {
+  width: 37% !important;
+  background: #e7e5df;
+  padding: 5%;
+}
+
+#main-page section#blog-post-ui {
+  position: relative;
+  height: auto !important;
+}
+
+#main-page section#blog-post-ui .blog_title {
+  text-align: left;
+  border-bottom: 3px solid #d17c78;
+  margin-bottom: 4%;
+  padding-bottom: 2%;
+}
+
+#main-page section#blog-post-ui .blog_title h1 {
+  font-size: 49px;
+  color: #0a192f;
+}
+
+#main-page section#blog-post-ui .blog_title span {
+  font-weight: 400;
+  font-style: italic;
+  color: #d17c78;
+}
+
+#main-page section#blog-post-ui .blog_title span:not(last-child) {
+  margin-right: 2%;
+}
+
+#main-page section#blog-post-ui .blog-content {
+  width: 50%;
+  padding: 2%;
+  float: left;
+  position: relative;
+}
+
+#main-page section#blog-post-ui .blog-ui-interactive-board {
+  width: 45%;
+  padding: 2%;
+  float: left;
+  background: #0a192f;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  height: 100vh;
+}
+
+#main-page section#blog-post-ui .blog-ui-interactive-board > img {
+  width: 68%;
+  margin: 13% auto;
+  display: block;
+}
+
+#main-page section#blog-post-ui .blog-content {
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1.7rem;
+}
+
+#main-page section#blog-post-ui .blog-content p {
+  line-height: 1.8;
+  text-align: start;
+  -webkit-font-smoothing: antialiased;
+}
+
+#main-page section#blog-post-ui .blog-content img {
+  display: block;
+  margin: 3% auto;
+  padding: 0.5%;
+  border: 1.5px solid #d17c78;
+  width: 100%;
+  -webkit-box-shadow: 0px 1px 3px #d2cfcf;
+          box-shadow: 0px 1px 3px #d2cfcf;
+}
+
+#main-page section#blog-post-ui .blog-content p.CommentFormSubmit.CommentForm_submit {
+  margin-top: 6%;
+}
+
+#main-page section#blog-post-ui .blog-content .CommentFormSubmit button[type="submit"] {
+  background: #d17c78;
+  color: white;
+  border: none;
+  padding: 0.5% 5%;
+}
+
+#main-page section#blog-post-ui .blog-content .comment-section {
+  margin-top: 12%;
+}
+
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar .CommentText,
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar .CommentAction,
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar form {
+  clear: both;
+  margin-left: 0;
+  margin-top: 5%;
+}
+
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar .CommentText > p,
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar .CommentAction > p,
+#main-page section#blog-post-ui .blog-content .comment-section .CommentListHasGravatar form > p {
+  font-size: 1.5rem;
+}
+
+#main-page section#blog-post-ui .blog-content .comment-section img {
+  width: auto;
+  margin-top: 0px;
+}
+
+div.clear {
+  clear: both;
+  width: 100%;
+  display: block;
+}
+
+.pagination {
+  width: 100%;
+}
+
+.pagination .MarkupPagerNav {
+  margin-left: 0px;
+  padding: 0;
+  width: auto;
+}
+
+.pagination .MarkupPagerNav li {
+  list-style: none;
+  float: left;
+  width: auto;
+  margin-right: 1%;
+  font-size: 19px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+  #newui section#homepage-ui .pane {
+    padding: 0px;
+    margin: 13%;
+    width: 86%;
+  }
+  #newui section#about-page-ui, #newui #main-page section#concept-page-ui, #main-page #newui section#concept-page-ui, #newui #main-page section#blog-post-ui, #main-page #newui section#blog-post-ui, #newui section#blogs-page-ui {
+    padding: 0px;
+  }
+  #newui header.nav-menu {
+    position: relative;
+    top: 4%;
+    z-index: 99999;
+    left: 0px;
+    width: auto;
+    font-size: 16px;
+  }
+  #newui section#project-page {
+    display: none;
+  }
+  #newui section#blog-post-ui {
+    padding: 0px;
+  }
+  #newui section#blog-post-ui .blog-content {
+    width: 100%;
+  }
+  #newui section#blog-post-ui .blog-ui-interactive-board {
+    display: none;
+  }
+}
+/*# sourceMappingURL=main.css.map */

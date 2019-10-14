@@ -1,0 +1,61 @@
+{% extends 'layout/ui-base.twig' %}
+
+{% block content %}
+    <section class="row full-view" id="concept-page-ui">
+        <div class="col-lg-12 col-xs-12 col-sm-12">
+            <div class="title">
+                <h2>{{page.title}}</h2>
+
+            </div>
+            <div class="content col-lg-5 col-md-5 col-xs-12 col-sm-12 nopadding">
+                A lot of these articles are my opinions and take on certain technologies, topics in Software Development and anything remotely related to Tech, not excluding topics outside Programming.
+
+            </div>
+            <div class="clear"></div>
+            <br><br>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nopadding">
+                <div class="col-md-2 col-lg-2 nopadding skillsets">
+                    <h4>Categories</h4>
+                    <ul>
+                        {% for category in categories %}
+                            <li>
+                                <a href="{{category.url}}">
+                                    <span class="black-text">
+                                        /{{category.title}}
+                                    </span>
+
+
+                                </a>
+
+                            </li>
+                        {% endfor %}
+
+
+                    </ul>
+                </div>
+                <div class="col-md-9 col-lg-9 nopadding skillsets">
+                    <h4>Notes</h4>
+                    <ul>
+                        {% for post in posts %}
+                            <li>
+                                <a href="{{post.url}}">
+                                    <span>{{post.title}}
+                                    </span>
+                                    <span class="time">/{{ category.created|date("F d, Y") }}</span>
+                                </a>
+                            </li>
+                            <li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+
+
+                </div>
+                <div class="pagination">
+                    {{posts.renderPager()}}
+                </div>
+            </div>
+            <div class="footer-design"></div>
+        </section>
+    {% endblock %}

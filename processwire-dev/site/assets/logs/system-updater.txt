@@ -1,0 +1,88 @@
+2019-08-01 00:10:47	Update #8: Completed!
+2019-08-01 00:10:47	Update #9: Initializing update
+2019-08-01 00:10:50	Update #9: Added: Pages > Recent
+2019-08-01 00:10:50	Update #9: Completed!
+2019-08-01 00:11:06	Update #10: Initializing update
+2019-08-01 00:11:08	Update #10: Installed ProcessLogger and added: Setup > Logs
+2019-08-01 00:11:08	Update #10: Installed InputfieldIcon
+2019-08-01 00:11:08	Update #10: Completed!
+2019-08-01 00:12:09	Update #11: Initializing update
+2019-08-01 00:12:10	Update #11: Completed!
+2019-08-01 00:14:06	Update #12: Initializing update
+2019-08-01 00:14:06	Update #12: Added 'published' column to pages table
+2019-08-01 00:14:06	Update #12: Populated values to 'published' for 43 pages
+2019-08-01 00:14:06	Update #12: Completed!
+2019-08-01 00:14:06	Update #13: Initializing update
+2019-08-01 00:14:06	Update #13: Completed!
+2019-08-01 00:14:12	Update #14: Initializing update
+2019-08-01 00:14:12	Update #14: Completed!
+2019-08-01 00:14:18	Update #15: Initializing update
+2019-08-01 00:14:45	Update #15: Completed!
+2019-08-01 00:14:45	Update #16: Initializing update
+2019-08-01 00:14:45	Update #16: Initializing update
+2019-08-01 00:14:45	Update #16: Completed!
+2019-08-01 00:14:55	Update #17: Initializing update
+2019-08-01 00:14:55	Update #17: Skipped: /processwire-dev/processwire-dev/site/.htaccess (already exists)
+2019-08-01 00:14:55	Update #17: Created: /processwire-dev/processwire-dev/site/assets/.htaccess
+2019-08-01 00:14:55	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/cache/.htaccess (already exists)
+2019-08-01 00:14:55	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/backups/.htaccess (already exists)
+2019-08-01 00:14:55	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/logs/.htaccess (already exists)
+2019-08-01 00:14:55	Update #17: Created: /processwire-dev/processwire-dev/site/templates/.htaccess
+2019-08-01 00:14:55	Update #17: Created: /processwire-dev/processwire-dev/site/modules/.htaccess
+2019-08-01 00:14:55	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2019-08-01 00:14:55	Update #17: Completed!
+2019-08-01 07:43:01	Update #17: Initializing update
+2019-08-01 07:43:02	Detected core version change 3.0.61 =&gt; 3.0.136
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/cache/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/backups/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/logs/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Created: /processwire-dev/processwire-dev/site/templates/.htaccess
+2019-08-01 07:43:22	Update #17: Skipped: /processwire-dev/processwire-dev/site/modules/.htaccess (already exists)
+2019-08-01 07:43:22	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2019-08-01 07:43:23	Update #17: Completed!
+2019-08-08 11:16:37	Update #17: Initializing update
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/cache/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/backups/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/assets/logs/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/templates/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Skipped: /processwire-dev/processwire-dev/site/modules/.htaccess (already exists)
+2019-08-08 11:16:37	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2019-08-08 11:16:37	Update #17: Completed!
+2019-08-08 11:26:04	Update #12: Initializing update
+2019-08-08 11:26:04	Update #12: Added 'published' column to pages table
+2019-08-08 11:26:04	Update #12: Populated values to 'published' for 43 pages
+2019-08-08 11:26:04	Update #12: Completed!
+2019-08-08 11:26:04	Update #13: Initializing update
+2019-08-08 11:26:05	Update #13: Completed!
+2019-08-08 11:26:09	Update #14: Initializing update
+2019-08-08 11:26:10	Update #14: Completed!
+2019-08-08 11:26:18	Update #15: Initializing update
+2019-08-08 11:26:40	Update #15: Completed!
+2019-08-08 11:26:40	Update #16: Initializing update
+2019-08-08 11:26:40	Update #16: Completed!
+2019-08-08 11:27:04	Update #17: Initializing update
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/assets/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/assets/cache/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/assets/backups/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/assets/logs/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/templates/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Skipped: /mysite/processwire-dev/processwire-dev/site/modules/.htaccess (already exists)
+2019-08-08 11:27:04	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2019-08-08 11:27:04	Update #17: Completed!
+2019-08-08 11:29:01	Update #17: Initializing update
+2019-08-08 11:29:01	Detected core version change 3.0.61 =&gt; 3.0.136
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/assets/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/assets/cache/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/assets/backups/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/assets/logs/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/templates/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Skipped: /mysite/processwire-dev/site/modules/.htaccess (already exists)
+2019-08-08 11:29:20	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2019-08-08 11:29:20	Update #17: Completed!
+2019-08-28 15:21:04	Detected core version change 3.0.136 =&gt; 3.0.138

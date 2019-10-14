@@ -1,0 +1,28 @@
+{% extends 'layout/ui-base.twig' %}
+{% block content %}
+
+    <section id="blog-post-ui" class="row full-view">
+
+        <div class="blog-content">
+            <div class="blog_title">
+                <h1>{{page.title}}</h1>
+                <p>
+                    <span class="time">/{{ category.created|date("F d, Y") }}</span> 
+                    <span class="author">/{{page.createdUser.name}}</span> 
+                </p>
+            </div>
+
+            {{ page.blog_body}}
+            <div class="comment-section">
+                {{ page.blog_comments.renderForm() }}
+                {{ page.blog_comments.render() }}
+            </div>
+        </div>
+        <div class="blog-ui-interactive-board">
+            {% if page.blog_images is defined %}
+                <img src="{{page.blog_images.url}}" alt="{{ page.blog_images.basename }}">
+            {% endif %}
+        </div>
+    </section>
+  
+{% endblock %}
